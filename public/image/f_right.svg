@@ -1,0 +1,11 @@
+<svg width="10" height="20" viewBox="0 0 10 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#229;&#143;&#179;&#231;&#174;&#173;&#229;&#164;&#180;">
+<path id="Rectangle 46 (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M0.853453 2.33978C1.17889 2.01434 1.70653 2.01434 2.03196 2.33978L8.51378 8.82159C9.16465 9.47247 9.16465 10.5277 8.51378 11.1786L2.03196 17.6604C1.70653 17.9859 1.17889 17.9859 0.853453 17.6604C0.528016 17.335 0.528016 16.8074 0.853453 16.4819L7.33526 10.0001L0.853453 3.51829C0.528016 3.19286 0.528016 2.66522 0.853453 2.33978Z" fill="url(#paint0_linear_1094_102303)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1094_102303" x1="4.80565" y1="2.02638" x2="4.80565" y2="18.3591" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#FFBF00"/>
+</linearGradient>
+</defs>
+</svg>
